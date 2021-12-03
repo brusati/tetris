@@ -3,4 +3,4 @@
 - *down arrow key* to speed up the block fall
 - *left and right arrow keys* to move the block
 
-![image](https://user-images.githubusercontent.com/71679642/144653398-27a19f2d-a125-483f-beb7-5a2da66f7e26.png)
+![image](https://user-images.githubusercontent.com/71679642/144653701-799e47a7-de1a-4740-bf92-bc844ace7761.png)
